@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "next dev",
-    "buildClient": "npm install && next build",
+    "buildClient": "next build",
     "startClient": "next start"
   },
   "dependencies": {
